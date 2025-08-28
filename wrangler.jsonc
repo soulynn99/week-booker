@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "week-booker",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "dbdbdb",
+      "database_id": "40a126bd-ca24-4ebb-8bbb-a38f397e1d81"
+    }
+  ]
+}
